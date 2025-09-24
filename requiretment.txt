@@ -1,0 +1,6 @@
+1) numpy
+2) pandas
+3)matplot
+4) seaborn
+5) sci-kitlearn
+6) this will be my finalized library which i going to use in my project
